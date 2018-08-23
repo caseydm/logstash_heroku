@@ -1,0 +1,2 @@
+- pipeline.id: heroku
+  path.config: "/usr/share/logstash/config/heroku.cfg"
